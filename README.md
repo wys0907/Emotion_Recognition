@@ -1,0 +1,2 @@
+# Emotion_Recgnition
+这是一个基于DeepFaceAPI接口实现的人类识别系统，主要是工作是依据这个接口的输出构建了一个PyQT页面，实现桌面端交互
